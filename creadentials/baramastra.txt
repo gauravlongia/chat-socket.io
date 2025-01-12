@@ -1,0 +1,20 @@
+1 . sudo apt install git 
+2 . node -v  #check for node but it is not installed yet
+3.  sudo apt install nodejs #installed but cant check status
+4.  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+5.  source ~/.bashrc
+6.  nvm install --lts
+7.  node -v recheck
+8.  add github  -----   git clone https://github.com/deepaksinghturaka/DeepakTrack.git
+9.  ls 
+10. cd project name 
+11. npm i 
+12. ls
+13 . node app.js  -- start main file
+14.  npm install -g pm2
+15.  pm2 start main file --name "project name "  
+
+
+
+
+  ls ,  nano , rm , mv , mkdir, touch
