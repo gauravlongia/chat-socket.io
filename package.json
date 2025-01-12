@@ -8,7 +8,7 @@
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "gaurav",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
@@ -18,3 +18,5 @@
     "nodemon": "^2.0.4"
   }
 }
+
+pm2 start main file --name "chat-socket"  
